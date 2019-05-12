@@ -1,6 +1,24 @@
 plugins:
   aledbf/prow-test:
-  - size
+  - approve
+  - assign
+  - blunderbuss
   - cat
+  - cla
   - dog
+  - heart
+  - help
+  - hold
+  - invalidcommitmsg
+  - label
+  - lgtm
+  - lifecycle
+  - owners-label
+  - pony
+  - shrug
+  - size
+  - skip
   - trigger
+  - verify-owners
+  - wip
+  - yuks
